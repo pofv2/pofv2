@@ -6,3 +6,6 @@
 
 # intellij files
 *.iml
+.idea
+
+/*.dll

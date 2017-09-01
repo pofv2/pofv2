@@ -1,6 +1,7 @@
 [package]
 name = "pofv2"
 version = "0.1.0"
+build = "build.rs"
 authors = ["delthas", "mtpc", "Lunalune"]
 
 [dependencies]
