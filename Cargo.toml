@@ -1,0 +1,8 @@
+[package]
+name = "pofv2"
+version = "0.1.0"
+authors = ["delthas", "mtpc", "Lunalune"]
+
+[dependencies]
+sdl2 = "0.30"
+
